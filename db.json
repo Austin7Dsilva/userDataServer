@@ -1,0 +1,69 @@
+{
+  "contacts": [
+    {
+      "firstName": "Austin",
+      "lastName": "Dsilva",
+      "photo": "https://ik.imagekit.io/ugdlmxlzt/Screenshot%202023-03-28%20at%206.47.51%20PM.png?updatedAt=1693717437818",
+      "mobile": "918095867649",
+      "email": "austinofficial007@gmail.com",
+      "zipcode": "57720",
+      "country": "CH",
+      "states": "Aargau",
+      "address1": "Gopala, chalukya nagar",
+      "address2": "xxx",
+      "id": "1lRcflE"
+    },
+    {
+      "id": "A@123",
+      "firstName": "Charu",
+      "lastName": "latha",
+      "photo": "https://ik.imagekit.io/ugdlmxlzt/user4.png?updatedAt=1693374704004",
+      "mobile": "448095867469",
+      "email": "jkadsnf@gmail.com",
+      "zipcode": "99950",
+      "country": "India",
+      "states": "Karnataka",
+      "address1": "DER 234, Htm nagar",
+      "address2": "behind Axis bank"
+    },
+    {
+      "id": "B@123",
+      "firstName": "Jayshankar",
+      "lastName": "S",
+      "photo": "https://ik.imagekit.io/ugdlmxlzt/user1.png?updatedAt=1693374704058",
+      "mobile": "39983457598",
+      "email": "tret@gmail.com",
+      "zipcode": "80623",
+      "country": "Israel",
+      "states": "Haifa District",
+      "address1": "MIf 456, chalukya nagar",
+      "address2": "near second park"
+    },
+    {
+      "id": "D@123",
+      "firstName": "Ramachari",
+      "lastName": "Nar",
+      "photo": "https://ik.imagekit.io/ugdlmxlzt/user3.jpeg?updatedAt=1693374703984",
+      "mobile": "581010101010",
+      "email": "Jaye@gmail.com",
+      "zipcode": "25478",
+      "country": "AF",
+      "states": "Badakhshan",
+      "address1": "MIf 456, chalukya nagar",
+      "address2": "near second park"
+    },
+    {
+      "firstName": "Manyata",
+      "lastName": "Jayashakar",
+      "photo": "https://ik.imagekit.io/ugdlmxlzt/user2.png?updatedAt=1693374704022",
+      "mobile": "841234567890",
+      "email": "manyata@gmail.com",
+      "zipcode": "56004",
+      "country": "IQ",
+      "states": "Babylon Governorate",
+      "address1": "Nagavara",
+      "address2": "bangalore",
+      "id": "ctKmDB4"
+    }
+  ]
+}
